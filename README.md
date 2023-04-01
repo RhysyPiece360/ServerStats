@@ -1,7 +1,7 @@
 # ServerStats
 Visualize your Minecraft server statistics in realtime for Minecraft 1.8+ (*Only 1.17+ for Fabric*)
 
-Want to learn more? Visit [serverstats.diced.me](https://serverstats.diced.me) for the latest downloads and documentation.
+Want to learn more? Visit [serverstats.diced.me](https://serverstats.vercel.app/) for the latest downloads and documentation.
 
 ![Grafana Dashboard Example](https://raw.githubusercontent.com/diced/serverstats/trunk/example-grafana-dashboard.png)
 
@@ -10,7 +10,7 @@ There's multiple places where you can download ServerStats
 
 ### Stable Builds
 * **`builds`** branch contains builds from every stable tag release
-* **[Website](https://serverstats.diced.me/download)** contains the builds from stable releases
+* **[Website](https://serverstats.vercel.app/download)** contains the builds from stable releases
 * **[GitHub Releases](https://github.com/diced/ServerStats/releases)** contains the builds from stable releases
 
 (*[dl.diced.me/serverstats/latest](https://dl.diced.me/serverstats/latest)*)
@@ -27,7 +27,7 @@ There's multiple places where you can download ServerStats
 
 ## Metrics
 This is a list of all the metrics provides. The code block has the config property.
-[Docs Link to Configuration](https://serverstats.diced.me/docs/config#pushable)
+[Docs Link to Configuration](https://serverstats.vercel.app/docs/config#pushable)
 ### Player Count `player-count`
 The online player count
 ### Free Memory `free-memory`
